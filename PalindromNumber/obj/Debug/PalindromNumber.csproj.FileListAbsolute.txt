@@ -1,0 +1,7 @@
+C:\Users\X3\source\repos\PalindromNumber\PalindromNumber\obj\Debug\PalindromNumber.csproj.AssemblyReference.cache
+C:\Users\X3\source\repos\PalindromNumber\PalindromNumber\obj\Debug\PalindromNumber.csproj.CoreCompileInputs.cache
+C:\Users\X3\source\repos\PalindromNumber\PalindromNumber\bin\Debug\PalindromNumber.exe.config
+C:\Users\X3\source\repos\PalindromNumber\PalindromNumber\bin\Debug\PalindromNumber.exe
+C:\Users\X3\source\repos\PalindromNumber\PalindromNumber\bin\Debug\PalindromNumber.pdb
+C:\Users\X3\source\repos\PalindromNumber\PalindromNumber\obj\Debug\PalindromNumber.exe
+C:\Users\X3\source\repos\PalindromNumber\PalindromNumber\obj\Debug\PalindromNumber.pdb
