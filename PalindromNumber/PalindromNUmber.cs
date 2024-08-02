@@ -12,7 +12,7 @@ namespace PalindromNumber
         {
 
             int x, r, y = 0, number;
-            Console.Write("Enter Your Number: ");
+            Console.Write("GITHUB>>Enter Your Number: ");
             number = Convert.ToInt32(Console.ReadLine());
             x = number;
 
